@@ -26,13 +26,12 @@ Excel is a powerful tool widely used in data analysis, finance, and business ope
 5. **Conditional Formatting**: Apply conditional formatting rules to highlight important data points automatically.
 6. **IF Statements**: Use IF statements to perform conditional calculations and logical operations.
 
-*... (Add more assignments if applicable) ...*
 
 ## How to Use
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/yourusername/excel-assignments.git
+    git clone https://github.com/Onkar28/excel-assignments.git
     ```
 2. **Navigate to the Folder**: Open the repository folder and navigate to the assignment you want to work on.
 3. **Open in Excel**: Each assignment is provided as an Excel file (.xlsx). Open the file in Excel to start working on the exercise.
@@ -61,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Onkar Gaikwad** - [https://github.com/OnkarG28]
+- Onkar Gaikwad - [https://github.com/OnkarG28]
 
 ## Acknowledgments
 
